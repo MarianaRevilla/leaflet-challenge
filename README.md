@@ -1,2 +1,2 @@
-# leaflet-challenge
+# Leaflet Challenge
 ![Screenshot](screenshot.png)
